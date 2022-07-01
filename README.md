@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on 26dudt
-- 🌱 I’m currently learning BigData、RPC、Spring
-- 💬 Ask me about hello_lwj@qq.com
-- 📫 How to reach me: hello_lwj@qq.com
+- 🔭 小小的一名开发人员
+- 🌱 喜欢技术，但又容易迷茫，所以还是要多行动
+- 💬 不积跬步，无以至千里
